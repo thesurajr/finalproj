@@ -1,0 +1,16 @@
+.nav-ul{
+    padding: 5px;
+    margin: 0;
+    /* background: linear-gradient(to right,#86e9ed,#ec825f); */
+    /* background: linear-gradient(to right,#f33b3b,#7ed9e5); */
+    background:black;
+}
+.nav-ul li{
+    display: inline-block;
+    padding: 10px;
+}
+.nav-ul li a{
+color:#fff ;
+text-decoration: none;
+padding: 5px;
+}
